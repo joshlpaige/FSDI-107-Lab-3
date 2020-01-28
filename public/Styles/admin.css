@@ -1,0 +1,39 @@
+body{
+    background-image: url(img/6g9kIeh.png);
+    background-position: right center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+h1{
+    margin-bottom: 20px;
+    text-align: center;
+    padding: 10px;
+    background-color: rgba(12, 3, 3, 0.4);
+}
+
+.container{
+    border: 5px solid rgba(2, 18, 34, 0.959);
+    padding: 0;
+    background-image: url(img/brand3.png);
+    background-position: left center;
+    background-size: auto;
+    background-repeat: no-repeat;
+}
+
+.form{
+    padding: 10px 20px;
+}
+
+.row{
+    margin-bottom: 25px;
+}
+
+.col-4{
+    text-align: right;
+}
+
+.hidden{
+    display: none;
+}
